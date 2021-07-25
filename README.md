@@ -1,6 +1,7 @@
 # homography-camera-displacement
 
 Example of homography camera displacement from [OpenCV tutorial](https://docs.opencv.org/4.5.2/d9/dab/tutorial_homography.html#tutorial_homography_Demo3).
+The goal is to convert a image taken by the camera with known posture into one from the bird's eye view.
 
 See [Notebook](Homography_camera_displacement.ipynb) for the details.
 

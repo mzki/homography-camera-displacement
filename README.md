@@ -1,6 +1,8 @@
 # homography-camera-displacement
 
-Example of homography camera displacement from [OpenCV tutorial](https://docs.opencv.org/4.5.2/d9/dab/tutorial_homography.html#tutorial_homography_Demo3)
+Example of homography camera displacement from [OpenCV tutorial](https://docs.opencv.org/4.5.2/d9/dab/tutorial_homography.html#tutorial_homography_Demo3).
+
+See [Notebook](Homography_camera_displacement.ipynb) for the details.
 
 ## Enviroment
 
